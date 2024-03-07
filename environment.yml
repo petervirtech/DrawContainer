@@ -4,3 +4,4 @@ dependencies:
   - numpy
   - psycopg2
   - pylint
+  - pyautogui
