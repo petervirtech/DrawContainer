@@ -25,6 +25,8 @@
 		"--userns=keep-id:uid=502,gid=20"
 	   ],
 	   "containerUser": "vscode",
-	   "updateRemoteUserUID": true
+	   "updateRemoteUserUID": true,
+	   "containerEnv": {
+		"HOME": "/home/vscode"
 
 }
